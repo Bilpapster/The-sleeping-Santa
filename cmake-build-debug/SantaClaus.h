@@ -1,0 +1,14 @@
+//
+// Created by bilpa on 2/12/2022.
+//
+
+#ifndef THESLEEPINGSANTACLAUS_SANTACLAUS_H
+#define THESLEEPINGSANTACLAUS_SANTACLAUS_H
+
+
+class SantaClaus {
+
+};
+
+
+#endif //THESLEEPINGSANTACLAUS_SANTACLAUS_H

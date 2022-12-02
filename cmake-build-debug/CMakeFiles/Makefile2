@@ -93,12 +93,12 @@ clean: CMakeFiles/TheSleepingSantaClaus.dir/clean
 CMakeFiles/TheSleepingSantaClaus.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target TheSleepingSantaClaus"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5 "Built target TheSleepingSantaClaus"
 .PHONY : CMakeFiles/TheSleepingSantaClaus.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TheSleepingSantaClaus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/TheSleepingSantaClaus.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/TheSleepingSantaClaus.dir/rule

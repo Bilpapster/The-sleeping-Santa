@@ -89,19 +89,64 @@ CMakeFiles/TheSleepingSantaClaus.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TheSleepingSantaClaus.dir/main.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Papster\Codes\C++\TheSleepingSantaClaus\main.cpp -o CMakeFiles\TheSleepingSantaClaus.dir\main.cpp.s
 
+CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.obj: CMakeFiles/TheSleepingSantaClaus.dir/flags.make
+CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.obj: SantaClaus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TheSleepingSantaClaus.dir\SantaClaus.cpp.obj -c D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\SantaClaus.cpp
+
+CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\SantaClaus.cpp > CMakeFiles\TheSleepingSantaClaus.dir\SantaClaus.cpp.i
+
+CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\SantaClaus.cpp -o CMakeFiles\TheSleepingSantaClaus.dir\SantaClaus.cpp.s
+
+CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.obj: CMakeFiles/TheSleepingSantaClaus.dir/flags.make
+CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.obj: Reindeer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TheSleepingSantaClaus.dir\Reindeer.cpp.obj -c D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\Reindeer.cpp
+
+CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\Reindeer.cpp > CMakeFiles\TheSleepingSantaClaus.dir\Reindeer.cpp.i
+
+CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\Reindeer.cpp -o CMakeFiles\TheSleepingSantaClaus.dir\Reindeer.cpp.s
+
+CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.obj: CMakeFiles/TheSleepingSantaClaus.dir/flags.make
+CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.obj: Elf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\TheSleepingSantaClaus.dir\Elf.cpp.obj -c D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\Elf.cpp
+
+CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\Elf.cpp > CMakeFiles\TheSleepingSantaClaus.dir\Elf.cpp.i
+
+CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\Elf.cpp -o CMakeFiles\TheSleepingSantaClaus.dir\Elf.cpp.s
+
 # Object files for target TheSleepingSantaClaus
 TheSleepingSantaClaus_OBJECTS = \
-"CMakeFiles/TheSleepingSantaClaus.dir/main.cpp.obj"
+"CMakeFiles/TheSleepingSantaClaus.dir/main.cpp.obj" \
+"CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.obj" \
+"CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.obj" \
+"CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.obj"
 
 # External object files for target TheSleepingSantaClaus
 TheSleepingSantaClaus_EXTERNAL_OBJECTS =
 
 TheSleepingSantaClaus.exe: CMakeFiles/TheSleepingSantaClaus.dir/main.cpp.obj
+TheSleepingSantaClaus.exe: CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.obj
+TheSleepingSantaClaus.exe: CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.obj
+TheSleepingSantaClaus.exe: CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.obj
 TheSleepingSantaClaus.exe: CMakeFiles/TheSleepingSantaClaus.dir/build.make
 TheSleepingSantaClaus.exe: CMakeFiles/TheSleepingSantaClaus.dir/linklibs.rsp
 TheSleepingSantaClaus.exe: CMakeFiles/TheSleepingSantaClaus.dir/objects1.rsp
 TheSleepingSantaClaus.exe: CMakeFiles/TheSleepingSantaClaus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TheSleepingSantaClaus.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Papster\Codes\C++\TheSleepingSantaClaus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable TheSleepingSantaClaus.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\TheSleepingSantaClaus.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

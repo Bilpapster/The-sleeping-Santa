@@ -142,6 +142,87 @@ TheSleepingSantaClaus/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/build
 .PHONY : TheSleepingSantaClaus/fast
 
+Elf.obj: Elf.cpp.obj
+
+.PHONY : Elf.obj
+
+# target to build an object file
+Elf.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.obj
+.PHONY : Elf.cpp.obj
+
+Elf.i: Elf.cpp.i
+
+.PHONY : Elf.i
+
+# target to preprocess a source file
+Elf.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.i
+.PHONY : Elf.cpp.i
+
+Elf.s: Elf.cpp.s
+
+.PHONY : Elf.s
+
+# target to generate assembly for a file
+Elf.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.s
+.PHONY : Elf.cpp.s
+
+Reindeer.obj: Reindeer.cpp.obj
+
+.PHONY : Reindeer.obj
+
+# target to build an object file
+Reindeer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.obj
+.PHONY : Reindeer.cpp.obj
+
+Reindeer.i: Reindeer.cpp.i
+
+.PHONY : Reindeer.i
+
+# target to preprocess a source file
+Reindeer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.i
+.PHONY : Reindeer.cpp.i
+
+Reindeer.s: Reindeer.cpp.s
+
+.PHONY : Reindeer.s
+
+# target to generate assembly for a file
+Reindeer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.s
+.PHONY : Reindeer.cpp.s
+
+SantaClaus.obj: SantaClaus.cpp.obj
+
+.PHONY : SantaClaus.obj
+
+# target to build an object file
+SantaClaus.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.obj
+.PHONY : SantaClaus.cpp.obj
+
+SantaClaus.i: SantaClaus.cpp.i
+
+.PHONY : SantaClaus.i
+
+# target to preprocess a source file
+SantaClaus.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.i
+.PHONY : SantaClaus.cpp.i
+
+SantaClaus.s: SantaClaus.cpp.s
+
+.PHONY : SantaClaus.s
+
+# target to generate assembly for a file
+SantaClaus.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TheSleepingSantaClaus.dir\build.make CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.s
+.PHONY : SantaClaus.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -178,6 +259,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... TheSleepingSantaClaus
+	@echo ... Elf.obj
+	@echo ... Elf.i
+	@echo ... Elf.s
+	@echo ... Reindeer.obj
+	@echo ... Reindeer.i
+	@echo ... Reindeer.s
+	@echo ... SantaClaus.obj
+	@echo ... SantaClaus.i
+	@echo ... SantaClaus.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

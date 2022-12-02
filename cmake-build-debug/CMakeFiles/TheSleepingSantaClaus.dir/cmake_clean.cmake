@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.obj"
+  "CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.obj"
+  "CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.obj"
   "CMakeFiles/TheSleepingSantaClaus.dir/main.cpp.obj"
   "TheSleepingSantaClaus.exe"
   "TheSleepingSantaClaus.exe.manifest"

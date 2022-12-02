@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/Elf.cpp">
+			<Option target="TheSleepingSantaClaus"/>
+		</Unit>
+		<Unit filename="D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/Elf.h">
+			<Option target="TheSleepingSantaClaus"/>
+		</Unit>
+		<Unit filename="D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/Reindeer.cpp">
+			<Option target="TheSleepingSantaClaus"/>
+		</Unit>
+		<Unit filename="D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/Reindeer.h">
+			<Option target="TheSleepingSantaClaus"/>
+		</Unit>
+		<Unit filename="D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/SantaClaus.cpp">
+			<Option target="TheSleepingSantaClaus"/>
+		</Unit>
+		<Unit filename="D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/SantaClaus.h">
+			<Option target="TheSleepingSantaClaus"/>
+		</Unit>
 		<Unit filename="D:/Papster/Codes/C++/TheSleepingSantaClaus/main.cpp">
 			<Option target="TheSleepingSantaClaus"/>
 		</Unit>

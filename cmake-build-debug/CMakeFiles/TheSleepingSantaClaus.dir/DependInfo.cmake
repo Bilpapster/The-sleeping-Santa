@@ -4,6 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/Elf.cpp" "D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/CMakeFiles/TheSleepingSantaClaus.dir/Elf.cpp.obj"
+  "D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/Reindeer.cpp" "D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/CMakeFiles/TheSleepingSantaClaus.dir/Reindeer.cpp.obj"
+  "D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/SantaClaus.cpp" "D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/CMakeFiles/TheSleepingSantaClaus.dir/SantaClaus.cpp.obj"
   "D:/Papster/Codes/C++/TheSleepingSantaClaus/main.cpp" "D:/Papster/Codes/C++/TheSleepingSantaClaus/cmake-build-debug/CMakeFiles/TheSleepingSantaClaus.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
